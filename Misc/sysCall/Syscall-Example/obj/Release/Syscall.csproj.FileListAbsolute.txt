@@ -1,0 +1,5 @@
+C:\Users\fullo\Desktop\sysCall\Syscall-Example\obj\Release\Syscall.csproj.AssemblyReference.cache
+C:\Users\fullo\Desktop\sysCall\Syscall-Example\obj\Release\Syscall.csproj.CoreCompileInputs.cache
+C:\Users\fullo\Desktop\sysCall\Syscall-Example\bin\Release\Syscall.exe
+C:\Users\fullo\Desktop\sysCall\Syscall-Example\obj\Release\Syscall.exe
+C:\Users\fullo\Desktop\sysCall\Syscall-Example\obj\Release\Syscall.pdb

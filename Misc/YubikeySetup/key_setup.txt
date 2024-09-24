@@ -1,0 +1,4 @@
+mkdir -p ~/.config/Yubico
+pamu2fcfg > ~/.config/Yubico/u2f_keys
+sudo nano /etc/pam.d/sudo
+sudo nano /etc/pam.d/lightdm or gdm-password
